@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258142014831",
+    "project_id": "poyectdio",
+    "storage_bucket": "poyectdio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258142014831:android:e04c81f97d9d2e514bac9a",
+        "android_client_info": {
+          "package_name": "com.dio.proyecto_dio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiTr7nPtLcJb7KD1-0fdwH_6MifsfBhcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
